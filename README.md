@@ -1,2 +1,3 @@
 # Database-Management-System
-By using .NET and Microsoft SQL Server
+![alt text](https://i.hizliresim.com/qthmd4y.png)
+![alt text](https://i.hizliresim.com/e7huamp.png)
